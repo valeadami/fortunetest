@@ -1,0 +1,33 @@
+{
+  "name": "fortunecookie",
+  "version": "0.1.0",
+  "main": "index.js",
+  "script": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Henry Lee <henry@henrylee.link>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.0",
+    "jsonpath": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeadami/fortunecookie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/valeadami/fortunecookie/issues"
+  },
+  "homepage": "https://github.com/valeadami/fortunecookie#readme",
+  "description": ""
+}
+
+
+
